@@ -19,14 +19,19 @@ The Weather App is a simple and user-friendly application that allows users to r
 - Font Awesome: Icons for search, weather details, and error messages.
 - Google Fonts: Poppins font for a modern and clean design.
 #### Setup and Usage
-- Clone the repository:
-  - bash
-Copy code
-git clone https://github.com/your-username/weather-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd weather-app
-Open index.html in a browser:
-Simply double-click the index.html file, or
-Use a live server in your code editor for the best experience.
+##### Clone the repository:
+  - Copy code: git clone https://github.com/KhanTaufeeq/weather-app.git 
+##### Navigate to the project directory:
+  - Copy code: cd weather-app
+##### Open index.html in a browser:
+  - Simply double-click the index.html file, or
+  - Use a live server in your code editor for the best experience.
+##### How It Works
+- User Input:
+  - Enter a location in the search box and click the search button.
+##### Weather Fetch:
+- The app fetches real-time weather data using an external weather API (e.g., OpenWeatherMap).
+##### Display:
+- If valid, it displays the weather details.
+- If invalid, an error message with a "404 Not Found" image appears.
+
