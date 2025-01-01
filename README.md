@@ -35,5 +35,5 @@ The Weather App is a simple and user-friendly application that allows users to r
 - If valid, it displays the weather details.
 - If invalid, an error message with a "404 Not Found" image appears.
 #### Dependencies
-- [Font Awesome] [https://fontawesome.com/]: For Icons
+- [Font Awesome](https://fontawesome.com/): For Icons
 - [Google Fonts](https://fonts.google.com/specimen/Poppins): For Poppins font
