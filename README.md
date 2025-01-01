@@ -1,10 +1,10 @@
-Weather App
-Overview
+### Weather App
+##### Overview
 The Weather App is a simple and user-friendly application that allows users to retrieve real-time weather information by entering their location. It displays details such as temperature, weather conditions, humidity, and wind speed.
 
-Features
-Search Functionality: Enter a location to get real-time weather details.
-Weather Details:
+#### Features
+- Search Functionality: Enter a location to get real-time weather details.
+- Weather Details:
 Current temperature.
 Weather description (e.g., clear sky, rain).
 Humidity percentage.
